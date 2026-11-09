@@ -1,0 +1,148 @@
+{
+  "schema": 1,
+  "updated": "2026-11-06",
+  "notice": "",
+  "offers": [
+    {
+      "id": "moneyman",
+      "name": "Moneyman",
+      "legalName": "ООО МФК «Мани Мен»",
+      "color": "#1E8E5A",
+      "minAmount": 1500,
+      "maxAmount": 100000,
+      "minDays": 5,
+      "maxDays": 168,
+      "ratePerDay": 0.8,
+      "firstLoanFree": true,
+      "psk": "0-292% годовых",
+      "age": "18-75 лет",
+      "payout": [
+        "Карта",
+        "Счёт",
+        "Кошелёк"
+      ],
+      "url": "https://moneyman.ru/",
+      "badge": "Выбор редакции",
+      "decisionMinutes": 5,
+      "priority": 100,
+      "enabled": true
+    },
+    {
+      "id": "zaymer",
+      "name": "Займер",
+      "legalName": "ПАО МФК «Займер»",
+      "color": "#2A62D8",
+      "minAmount": 2000,
+      "maxAmount": 30000,
+      "minDays": 7,
+      "maxDays": 30,
+      "ratePerDay": 0.8,
+      "firstLoanFree": true,
+      "psk": "0-292% годовых",
+      "age": "18-75 лет",
+      "payout": [
+        "Карта",
+        "Счёт",
+        "Кошелёк"
+      ],
+      "url": "https://www.zaymer.ru/",
+      "badge": "Решение за минуту",
+      "decisionMinutes": 1,
+      "priority": 90,
+      "enabled": true
+    },
+    {
+      "id": "webbankir",
+      "name": "Webbankir",
+      "legalName": "ООО МФК «Вэббанкир»",
+      "color": "#E0473D",
+      "minAmount": 3000,
+      "maxAmount": 30000,
+      "minDays": 7,
+      "maxDays": 30,
+      "ratePerDay": 0.8,
+      "firstLoanFree": true,
+      "psk": "0-292% годовых",
+      "age": "19-70 лет",
+      "payout": [
+        "Карта"
+      ],
+      "url": "https://webbankir.com/",
+      "badge": "",
+      "decisionMinutes": 3,
+      "priority": 80,
+      "enabled": true
+    },
+    {
+      "id": "ekapusta",
+      "name": "Екапуста",
+      "legalName": "ООО МКК «Русинтерфинанс»",
+      "color": "#5AA02C",
+      "minAmount": 100,
+      "maxAmount": 30000,
+      "minDays": 7,
+      "maxDays": 21,
+      "ratePerDay": 0.8,
+      "firstLoanFree": true,
+      "psk": "0-292% годовых",
+      "age": "18-75 лет",
+      "payout": [
+        "Карта",
+        "Счёт",
+        "Кошелёк",
+        "Наличные"
+      ],
+      "url": "https://ekapusta.com/",
+      "badge": "Можно наличными",
+      "decisionMinutes": 5,
+      "priority": 70,
+      "enabled": true
+    },
+    {
+      "id": "lime",
+      "name": "Лайм-Займ",
+      "legalName": "ООО МФК «Лайм-Займ»",
+      "color": "#7DB61C",
+      "minAmount": 2000,
+      "maxAmount": 70000,
+      "minDays": 10,
+      "maxDays": 168,
+      "ratePerDay": 0.8,
+      "firstLoanFree": false,
+      "psk": "до 292% годовых",
+      "age": "18-75 лет",
+      "payout": [
+        "Карта",
+        "Счёт",
+        "Кошелёк"
+      ],
+      "url": "https://www.lime-zaim.ru/",
+      "badge": "Крупные суммы",
+      "decisionMinutes": 10,
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "creditplus",
+      "name": "Кредит Плюс",
+      "legalName": "ООО МФК «Кредит Плюс»",
+      "color": "#F28C1B",
+      "minAmount": 1000,
+      "maxAmount": 100000,
+      "minDays": 7,
+      "maxDays": 168,
+      "ratePerDay": 0.8,
+      "firstLoanFree": true,
+      "psk": "0-292% годовых",
+      "age": "18-75 лет",
+      "payout": [
+        "Карта"
+      ],
+      "url": "https://creditplus.ru/",
+      "badge": "",
+      "decisionMinutes": 5,
+      "priority": 50,
+      "enabled": true
+    }
+  ]
+}
